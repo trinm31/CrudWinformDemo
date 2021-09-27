@@ -1,0 +1,10 @@
+D:\Articles\Code\CrudOperationUsingStoreProcedure\bin\Debug\CrudOperationUsingStoreProcedure.exe.config
+D:\Articles\Code\CrudOperationUsingStoreProcedure\bin\Debug\CrudOperationUsingStoreProcedure.exe
+D:\Articles\Code\CrudOperationUsingStoreProcedure\bin\Debug\CrudOperationUsingStoreProcedure.pdb
+D:\Articles\Code\CrudOperationUsingStoreProcedure\obj\Debug\CrudOperationUsingStoreProcedure.csprojAssemblyReference.cache
+D:\Articles\Code\CrudOperationUsingStoreProcedure\obj\Debug\CrudOperationUsingStoreProcedure.Form1.resources
+D:\Articles\Code\CrudOperationUsingStoreProcedure\obj\Debug\CrudOperationUsingStoreProcedure.Properties.Resources.resources
+D:\Articles\Code\CrudOperationUsingStoreProcedure\obj\Debug\CrudOperationUsingStoreProcedure.csproj.GenerateResource.cache
+D:\Articles\Code\CrudOperationUsingStoreProcedure\obj\Debug\CrudOperationUsingStoreProcedure.csproj.CoreCompileInputs.cache
+D:\Articles\Code\CrudOperationUsingStoreProcedure\obj\Debug\CrudOperationUsingStoreProcedure.exe
+D:\Articles\Code\CrudOperationUsingStoreProcedure\obj\Debug\CrudOperationUsingStoreProcedure.pdb
